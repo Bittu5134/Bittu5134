@@ -1,0 +1,79 @@
+<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <style>
+    .header { font: 600 1.2em 'Segoe UI', Ubuntu, Sans-Serif; fill: #c792ea; }
+    .item-text { font: 600 0.9em 'Segoe UI', Ubuntu, Sans-Serif;scale:1.05;}
+    .pill { stroke: #ffffff; stroke-opacity: 0.07; scale:1.05; }
+    
+    /* Animation */
+    .stagger { opacity: 0; animation: fadeIn 0.4s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+
+  <rect x="0.5" y="0.5" rx="4.5" width="466" height="194" fill="#011627" stroke="none" stroke-opacity="0.1"/>
+  
+  <text x="25" y="35" class="header">Technical Stack</text>
+
+  <g class="stagger" style="animation-delay: 100ms">
+    <rect x="25" y="55" width="60" height="22" rx="5" class="pill"/>
+    <text x="55" y="70" text-anchor="middle" class="item-text" fill="#3776AB">Python</text>
+  </g>
+  <g class="stagger" style="animation-delay: 200ms">
+    <rect x="95" y="55" width="80" height="22" rx="5" class="pill"/>
+    <text x="135" y="70" text-anchor="middle" class="item-text" fill="#3178C6">TypeScript</text>
+  </g>
+  <g class="stagger" style="animation-delay: 300ms">
+    <rect x="185" y="55" width="65" height="22" rx="5" class="pill"/>
+    <text x="217.5" y="70" text-anchor="middle" class="item-text" fill="#339933">Node.js</text>
+  </g>
+  <g class="stagger" style="animation-delay: 400ms">
+    <rect x="260" y="55" width="75" height="22" rx="5" class="pill"/>
+    <text x="297.5" y="70" text-anchor="middle" class="item-text" fill="#FF3E00">SvelteKit</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 500ms">
+    <rect x="25" y="85" width="90" height="22" rx="5" class="pill"/>
+    <text x="70" y="100" text-anchor="middle" class="item-text" fill="#06B6D4">TailwindCSS</text>
+  </g>
+  <g class="stagger" style="animation-delay: 600ms">
+    <rect x="125" y="85" width="65" height="22" rx="5" class="pill"/>
+    <text x="157.5" y="100" text-anchor="middle" class="item-text" fill="#5A0EF8">DaisyUI</text>
+  </g>
+  <g class="stagger" style="animation-delay: 700ms">
+    <rect x="200" y="85" width="85" height="22" rx="5" class="pill"/>
+    <text x="242.5" y="100" text-anchor="middle" class="item-text" fill="#4169E1">PostgreSQL</text>
+  </g>
+  <g class="stagger" style="animation-delay: 800ms">
+    <rect x="295" y="85" width="80" height="22" rx="5" class="pill"/>
+    <text x="335" y="100" text-anchor="middle" class="item-text" fill="#47A248">MongoDB</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 900ms">
+    <rect x="25" y="115" width="60" height="22" rx="5" class="pill"/>
+    <text x="55" y="130" text-anchor="middle" class="item-text" fill="#2496ED">Docker</text>
+  </g>
+  <g class="stagger" style="animation-delay: 1000ms">
+    <rect x="95" y="115" width="80" height="22" rx="5" class="pill"/>
+    <text x="135" y="130" text-anchor="middle" class="item-text" fill="#F38020">Cloudflare</text>
+  </g>
+  <g class="stagger" style="animation-delay: 1100ms">
+    <rect x="185" y="115" width="50" height="22" rx="5" class="pill"/>
+    <text x="210" y="130" text-anchor="middle" class="item-text" fill="#FCC624">Linux</text>
+  </g>
+  <g class="stagger" style="animation-delay: 1200ms">
+    <rect x="245" y="115" width="40" height="22" rx="5" class="pill"/>
+    <text x="265" y="130" text-anchor="middle" class="item-text" fill="#F05033">Git</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 1300ms">
+    <rect x="25" y="145" width="60" height="22" rx="5" class="pill"/>
+    <text x="55" y="160" text-anchor="middle" class="item-text" fill="#4479A1">MySQL</text>
+  </g>
+  <g class="stagger" style="animation-delay: 1400ms">
+    <rect x="95" y="145" width="70" height="22" rx="5" class="pill"/>
+    <text x="130" y="160" text-anchor="middle" class="item-text" fill="#00979D">Arduino</text>
+  </g>
+  <g class="stagger" style="animation-delay: 1500ms">
+    <rect x="175" y="145" width="60" height="22" rx="5" class="pill"/>
+    <text x="205" y="160" text-anchor="middle" class="item-text" fill="#FA5C5C">Itch.io</text>
+  </g>
+</svg>
