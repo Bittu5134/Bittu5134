@@ -32,7 +32,10 @@
   </a>
   <br>
 
-  <img src="assets/tech-stack.svg" alt="Tech Stack" width="48%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+    <img alt="user stats" src="assets/tech-stack-light.svg" width="48%">
+  </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bittu5134&theme=nightowl&hide_border=true">
