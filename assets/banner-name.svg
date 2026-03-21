@@ -8,6 +8,10 @@
     animation-fill-mode: forwards;
   }
 
+  @media (prefers-color-scheme: light) {
+    fill: none; stroke: #d0520e; stroke-width: 3;
+  }
+
   .letter-0 { stroke-dasharray: 566.6; stroke-dashoffset: 566.6; animation-name: write0; animation-delay: 0s; }
   .letter-1 { stroke-dasharray: 208.85; stroke-dashoffset: 208.85; animation-name: write1; animation-delay: 0.255s; }
   .letter-2 { stroke-dasharray: 373.86; stroke-dashoffset: 373.86; animation-name: write2; animation-delay: 0.510s; }

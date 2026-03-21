@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="assets/banner-name.svg" alt="Banner"><br>
+  <img src="assets/banner-name.svg" alt="Banner" height=152.3><br>
 
 
   <div>
@@ -20,30 +20,30 @@
   <br>
 
 
-  <img src="assets/hero-text.svg" alt="motto">
+  <img src="assets/hero-text.svg" alt="motto" height=100>
   <br><br>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Bittu5134&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="user-stats">
+  <a href="https://github.com/Bittu5134">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bittu5134&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
+        <img alt="user-stats" src="https://github-readme-stats.vercel.app/api?username=Bittu5134&theme=default&show_icons=true&hide_border=true&count_private=true">
+      </picture>
+  </a>
+  <br>
 
+  <img src="assets/tech-stack.svg" alt="Tech Stack" width="48%">
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bittu5134&theme=nightowl&hide_border=true">
+    <img alt="user stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bittu5134&theme=default&hide_border=true" width="48%">
+  </picture>
 
-  <div>
-    <table border="0">
-      <tr>
-        <td valign="top">
-          <img src="assets/tech-stack.svg" alt="Tech Stack">
-        </td>
-        <td valign="top">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=bittu5134&theme=nightowl&hide_border=true" alt="user stats">
-        </td>
-      </tr>
-    </table>
-  </div>
 
 
   <img src="./assets/footer-animation.webp" width="100" alt="Minecraft Chicken Jockey" />
   <br />
-  <img src="https://badges.pufler.dev/visits/Bittu5134/Bittu5134?style=flat&color=a77ecb&labelColor=011627" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Bittu5134&style=flat&color=a77ecb&labelColor=011627" alt="Visitor Count"/>
 
   <hr>
 
