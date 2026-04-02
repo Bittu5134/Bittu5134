@@ -42,7 +42,16 @@
     <img alt="user stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bittu5134&theme=default&hide_border=true" width="48%">
   </picture>
 
-
+<a href="https://follow.lazybittu.workers.dev/user/Bittu5134">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="https://follow.lazybittu.workers.dev/user/Bittu5134.svg?preset=banner&time=three_months&border=false&theme=dark">
+						<source media="(prefers-color-scheme: light)" srcset="https://follow.lazybittu.workers.dev/user/Bittu5134.svg?preset=banner&time=three_months&border=false&theme=light">
+						<img width="40%" src="https://follow.lazybittu.workers.dev/user/Bittu5134.svg?preset=banner&time=three_months&border=false&theme=light" alt="Github Follow Tracker">
+					</picture>
+					</a><br />
+<sub>
+  Dynamically Generated using <a href="https://github.com/Bittu5134/GH-Follow-Tracker">Bittu5134/GH-Follow-Tracker</a>
+</sub><br />
 
   <img src="./assets/footer-animation.webp" width="100" alt="Minecraft Chicken Jockey" />
   <br />
