@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?logo=Reddit&logoColor=white&style=flat" alt="Reddit" height="24">
   </a>
   &nbsp;
-  <a href="mailto:ssr7a5134@gmail.com">
+  <a href="mailto:hello@bittu.dev">
     <img src="https://img.shields.io/badge/Email-004788?logo=gmail&logoColor=white&style=flat" alt="Email" height="24">
   </a>
   </div>
