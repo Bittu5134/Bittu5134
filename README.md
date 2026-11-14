@@ -26,7 +26,7 @@
   <a href="https://github.com/Bittu5134">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Bittu5134&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
-        <img alt="user-stats" src="https://github-stats-extended.vercel.appp/api?username=Bittu5134&theme=default&show_icons=true&hide_border=true&count_private=true">
+        <img alt="user-stats" src="https://github-stats-extended.vercel.app/api?username=Bittu5134&theme=default&show_icons=true&hide_border=true&count_private=true">
       </picture>
   </a>
   <br>
